@@ -1,4 +1,4 @@
-E-Commerce Product Recommendation System using Neural Collaborative Filtering (NCF)
+**E-Commerce Product Recommendation System using Neural Collaborative Filtering (NCF)**
 
 A deep learning–based recommendation system built using Neural Collaborative Filtering (NCF) to generate personalized product recommendations for users. The system is trained on Amazon Electronics Review data and predicts user–item interactions using learned embeddings and multi-layer perceptrons (MLP).
 
