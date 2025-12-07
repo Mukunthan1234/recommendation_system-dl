@@ -1,0 +1,22 @@
+# Ignore datasets
+data/
+*.json
+*.csv
+
+# Ignore saved models
+
+*.h5
+*.weights.h5
+
+# Ignore environments
+env/
+recomend/
+recommend/
+venv/
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
