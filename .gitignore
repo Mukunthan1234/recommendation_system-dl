@@ -4,8 +4,6 @@ data/
 *.csv
 
 # Ignore saved models
-
-*.h5
 *.weights.h5
 
 # Ignore environments
